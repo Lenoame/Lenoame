@@ -1,6 +1,6 @@
 <h2> Hello! I'm Leno! <h2>
-  <h4> I'm studying to become Back-End Developer!</h4>
-  <span> Email : seleno1104@gmail.com </span>
+<p>I'm studying to become Back-End Developer!</p>
+<span> 📮 seleno1104@gmail.com </span>
   
   <br>
   <a href="http://www.instagram.com/pastry_leno/">
