@@ -1,6 +1,9 @@
 <h2> Hello! I'm Leno! <h2>
-<p>I'm studying to become Back-End Developer!</p>
+  <p> 안녕하세요. 백엔드 엔지니어를 준비하고 있는 레노입니다! </p>
+  
 <span> 📮 seleno1104@gmail.com </span>
+  <br>
+<span> 📷 Instagram : pastry_leno </span>
   
   <br>
   <a href="http://www.instagram.com/pastry_leno/">
