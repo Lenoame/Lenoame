@@ -1,10 +1,13 @@
-<h2> Hello! I'm Leno! <h2>
-  <p> 안녕하세요. 백엔드 엔지니어를 준비하고 있는 레노입니다! </p>
-  
-<span> 📮 seleno1104@gmail.com </span>
-  <br>
-<span> 📷 Instagram : pastry_leno </span>
-  
+<h3> Kim Dong Ha  @Leno </h3>
+<hr size="2px">
+
+<h3> 📘 Studying </h3>
+  <li>Python</li>
+  <li>Java</li>
+  <li>Back End</li>
+  <li>Data Structure & Algorithms</li>
+
+
   <br>
   <a href="http://www.instagram.com/pastry_leno/">
     <img
