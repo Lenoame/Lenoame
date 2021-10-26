@@ -15,8 +15,8 @@
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
-  <a href="https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678">
-    <img src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678"
+  <a href="https://acidic-atom-e47.notion.site/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678">
+    <img src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://https://acidic-atom-e47.notion.site/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678"
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
