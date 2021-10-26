@@ -15,9 +15,8 @@
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
-  <a href="https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678>
-    <img
-         src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://www.notion.so/leno1104@live.wsu.ac.kr/"
+  <a href="https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d967">
+    <img src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678"
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
