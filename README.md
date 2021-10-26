@@ -15,17 +15,13 @@
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
-  <a href="https://acidic-atom-e47.notion.site/Programming-02d34e70924347b6810ba1d92f521a49">
+  <a href="https://www.notion.so/Leno-s-Resume-2ddc60f0553b47589ebdcf4e290d9678>
     <img
          src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://www.notion.so/leno1104@live.wsu.ac.kr/"
          style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </a>
   
-  <a href="https://velog.io/@leno1104">
-    <img
-         src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@leno1104"
-         style="hieght: auto; margin-left: 10px; margin-right: 10px;"/>
-  </a>
+
   
   ![Lenoame GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenoame&show_icons=true&theme=tokyonight)
   
