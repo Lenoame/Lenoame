@@ -5,10 +5,10 @@
   <li>Python</li>
   <li>Java</li>
   <li>Back End</li>
+  <li>Git</li>
   <li>Data Structure & Algorithms</li>
   <li>HTML, CSS, JavaScript</li>
   <li>Computer Science</li>
-
 
   <br>
   <a href="http://www.instagram.com/pastry_leno/">
