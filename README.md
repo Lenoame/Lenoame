@@ -6,6 +6,8 @@
   <li>Java</li>
   <li>Back End</li>
   <li>Data Structure & Algorithms</li>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Computer Science</li>
 
 
   <br>
